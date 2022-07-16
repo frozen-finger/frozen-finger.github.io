@@ -17,7 +17,7 @@ Email-address:<a href="mailto:xyf07140610@gmail.com">xyf07140610@gmail.com</a>
 ### An AutoEncoder used for pre-training Vision-Transformer(Encoder)
 
  - Task: reconstructing Chinese character graph
- - Structure: Vision-Transformer(Encoder), Transformer(Decoder)
+ - Structure: Vision-Transformer(Encoder), Transformer(Decoder)<br>
  ![autoencoder structure]()
 
 **Bold** and _Italic_ and `Code` text
