@@ -11,15 +11,14 @@ Email-address:<a href="mailto:xyf07140610@gmail.com">xyf07140610@gmail.com</a>
  - Research Feilds: Deep Learning, NLP
 
 
-# Header 1
-## Header 2
-### Header 3
+# Projects
 
-- Bulleted
-- List
+## AutoEncoder
+### An AutoEncoder used for pre-training Vision-Transformer(Encoder)
 
-1. Numbered
-2. List
+ - Task: reconstructing Chinese character graph
+ - Structure: Vision-Transformer(Encoder), Transformer(Decoder)
+ ![autoencoder structure]()
 
 **Bold** and _Italic_ and `Code` text
 
