@@ -4,12 +4,9 @@ If you have problem or suggestions, please feel free to contact me.<br>
 Email-address:<a href="mailto:xyf07140610@gmail.com">xyf07140610@gmail.com</a>
 
 ### Self introduction
-<div style='float:left;width:100%;margin:auto'>
-  <ul>
-    <li>Name: Frozen-Finger (Xu)</li>
-    <li>job: Student</li>
-  </ul>
-</div>
+-Name: Frozen-Finger (Xu)
+-job: Student</li>
+
 
 # Header 1
 ## Header 2
