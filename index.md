@@ -5,7 +5,10 @@ Email-address:<a href="mailto:xyf07140610@gmail.com">xyf07140610@gmail.com</a>
 
 ### Self introduction
  - Name: Frozen-Finger (Xu)
- - job: Student</li>
+ - job: Student
+ - Location: Tokyo & Jiangsu Province, China
+ - Hobbies: Snooker, films, music, philosophy
+ - Research Feilds: Deep Learning, NLP
 
 
 # Header 1
