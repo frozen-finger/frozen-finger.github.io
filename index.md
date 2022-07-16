@@ -18,7 +18,7 @@ Email-address:<a href="mailto:xyf07140610@gmail.com">xyf07140610@gmail.com</a>
 
  - Task: reconstructing Chinese character graph
  - Structure: Vision-Transformer(Encoder), Transformer(Decoder)<br>
- ![autoencoder structure](autoencoder structure.png)
+ ![autoencoder structure](/autoencoder structure.png)
 
 **Bold** and _Italic_ and `Code` text
 
