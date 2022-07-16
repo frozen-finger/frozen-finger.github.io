@@ -15,14 +15,14 @@ Email-address:<a href="mailto:xyf07140610@gmail.com">xyf07140610@gmail.com</a>
 
 ## AutoEncoder
 ### An AutoEncoder used for pre-training Vision-Transformer(Encoder)
-
+[link for autoencoder](https://github.com/frozen-finger/masked-autoencoder-for-chinese-character)
  - Task: reconstructing Chinese character graph
  - Structure: Vision-Transformer(Encoder), Transformer(Decoder)<br>
  ![autoencoder structure](/autoencoderstructure.png)
  - Pre-train result:<br>
  ![pre-train result](/pre-train.png)
 
-**Bold** and _Italic_ and `Code` text
+### Change 
 
 [Link](url) and ![Image](src)
 ```
