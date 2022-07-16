@@ -25,8 +25,8 @@ Email-address:<a href="mailto:xyf07140610@gmail.com">xyf07140610@gmail.com</a>
 ### Change Chinese character in a sentence into its correponding radical
 In this project, we present an easy way to change Chinese character into its corresponding radical.<br>
 <hr>
- * Firstly, we record all Chinese character and its correponding radical in a file.
- * Secondly, we set all Chinese characters with same radical into an ordered group.
- * Finally, Chinese character will be changed into its radical and correponding index in the group.
+ * Firstly, we record all Chinese character and its correponding radical in a file.<br>
+ * Secondly, we set all Chinese characters with same radical into an ordered group.<br>
+ * Finally, Chinese character will be changed into its radical and correponding index in the group.<br>
  #### Text
  >
