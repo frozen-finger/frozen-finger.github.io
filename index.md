@@ -1,3 +1,5 @@
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozen-finger)](https://github.com/frozen-finger/github-readme-stats)
 ## Introduction
 A simple page introduces my projects. All of these can be downloaded in my github repositories.
 If you have problem or suggestions, please feel free to contact me.<br>
