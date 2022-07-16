@@ -3,12 +3,13 @@ A simple page introduces my projects. All of these can be downloaded in my githu
 If you have problem or suggestions, please feel free to contact me.<br>
 Email-address:<a href="mailto:xyf07140610@gmail.com">xyf07140610@gmail.com</a>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Self introduction
+<div style='float:left;width=100%'>
+  <ul>
+    <li>#Name: Frozen-Finger (Xu)</li>
+    <li>#job: Student</li>
+  </ul>
+</div>
 
 # Header 1
 ## Header 2
